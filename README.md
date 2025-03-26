@@ -1,4 +1,4 @@
-<h1>Hi, I'm Rohith! <br/>Programmer, Cybersecurity Professional, AI Enthusiast</h1>
+<h1>Hi, I'm Rohith!<br/></h1><h2>Programmer, Cybersecurity Professional, AI Enthusiast</h2>
 
 <h2>🛡️ Cybersecurity Projects:</h2>
 

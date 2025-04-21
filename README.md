@@ -1,6 +1,6 @@
 <h1>Hi, I'm Rohith!<br/></h1><h2>Programmer, Cybersecurity Professional, AI Enthusiast</h2>
 
-[![My Skills](https://skillicons.dev/icons?i=anaconda,aws,azure,bash,docker,github,linux,mongodb,nginx,opencv,powershell,py, raspberrypi,tensorflow,ubuntu,windows&perline=5)](https://skillicons.dev)
+
 
 <h2>🛡️ Cybersecurity Projects:</h2>
 

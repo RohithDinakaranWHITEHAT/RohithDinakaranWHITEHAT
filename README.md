@@ -1,5 +1,7 @@
 <h1>Hi, I'm Rohith!<br/></h1><h2>Programmer, Cybersecurity Professional, AI Enthusiast</h2>
 
+[![My Skills](https://skillicons.dev/icons?i=anaconda,aws,azure,bash,docker,github,linux,mongodb,nginx,opencv,powershell,py, raspberrypi,tensorflow,ubuntu,windows&perline=5)](https://skillicons.dev)
+
 <h2>🛡️ Cybersecurity Projects:</h2>
 
 - <a href="https://medium.com/@rohith2001.rd/honeypot-hack-catching-cyber-attackers-with-azure-and-microsoft-sentinel-440e99a214e8"><b>Honeypot Deployment with Azure and Microsoft Sentinel</b></a>

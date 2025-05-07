@@ -3,12 +3,16 @@
 
 
 <h2>🛡️ Cybersecurity Projects:</h2>
+
 - <a href="https://medium.com/@rohith2001.rd/securing-wendys-a-practical-guide-to-incident-response-in-fast-food-701b5a413d1f"><b>Incident Response for fast food industries</b></a>
   - Analyzed real-world cyber threats facing modern quick-service restaurants, including ransomware, IoT device compromises, DoS attacks, and mobile order fraud. Authored “Securing Wendy’s: A Practical Guide to Incident Response in Fast Food”, an article outlining actionable strategies for developing and implementing Incident Response Plans (IRPs) tailored to the fast food industry.
+  
 - <a href="https://medium.com/@rohith2001.rd/honeypot-hack-catching-cyber-attackers-with-azure-and-microsoft-sentinel-440e99a214e8"><b>Honeypot Deployment with Azure and Microsoft Sentinel</b></a>
   - Set up a publicly accessible VM in Azure, leveraging Microsoft Sentinel as a SIEM system to detect and track cyber attackers in real-time, while utilizing Azure's logging tools to collect and analyze security events, including visualizing attacker locations using geographical data.
+  
 - <a href="https://medium.com/@rohith2001.rd/automating-threat-detection-and-response-with-limacharlie-and-tines-bd0008ae4d2e"><b>Automating Threat Detection and Response with LimaCharlie and Tines</b></a>
   - Developed a system using LimaCharlie to automate threat detection, such as identifying threats like Mimikatz, and integrated Tines to automate response workflows, enabling efficient alerting via Slack and system isolation based on user input.
+    
 - <a href="https://medium.com/@rohith2001.rd/active-directory-unleashed-creating-your-own-home-lab-from-scratch-f08c316d2969"><b>Active Directory Home Lab Setup</b></a> 
   - Configured a home lab Active Directory environment using Oracle VirtualBox, setting up a Windows Server 2019 domain controller and integrating a Windows 10 client virtual machine, while managing user accounts and group policies to ensure secure and efficient network operations.
     

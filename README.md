@@ -1,7 +1,5 @@
 <h1>Hi, I'm Rohith!<br/></h1><h2>Programmer, Cybersecurity Professional, AI Enthusiast</h2>
 
-
-
 <h2>🛡️ Cybersecurity Projects:</h2>
 
 - <a href="https://medium.com/@rohith2001.rd/securing-wendys-a-practical-guide-to-incident-response-in-fast-food-701b5a413d1f"><b>Incident Response for fast food industries</b></a>
@@ -59,5 +57,9 @@
 
 [instagram]: https://www.instagram.com/rohith__dinakaran/
 [linkedin]: https://www.linkedin.com/in/rohith-dinakaran/
+
+   
+          
+<img width="628" height="602" alt="ascii-text-art (1)" src="https://github.com/user-attachments/assets/e8328d1f-cbf6-44ee-b25e-0cd3a2adec0c" />
 
 
